@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\Caio\Desktop\Outras bagacinhas ai\.metadata\.plugins\org.eclipse.jdt.core
+80194803.index
+2107299136.index
+4201253308.index
+1570852477.index
+278910454.index
+3240722921.index
+3753197260.index
+3132313831.index
+108210781.index
